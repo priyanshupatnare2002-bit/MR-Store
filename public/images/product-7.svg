@@ -1,0 +1,13 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B3D91" />
+      <stop offset="100%" stop-color="#61A5C2" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad7)" />
+  <circle cx="540" cy="420" r="170" fill="rgba(255,255,255,0.20)" />
+  <rect x="340" y="620" width="400" height="160" rx="30" fill="rgba(255,255,255,0.18)" />
+  <text x="540" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="66" fill="#fff" font-weight="700">Speaker</text>
+  <text x="540" y="620" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#e0f2fe">Smart Home</text>
+</svg>

@@ -15,6 +15,9 @@ pnpm-debug.log*
 .env
 .env.*
 
+# Local backend database
+backend/mrstore.db
+
 # OS files
 .DS_Store
 

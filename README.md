@@ -32,7 +32,7 @@ Once the GitHub Pages workflow runs, this link will open the website directly fo
 
 ## About this repository
 
+- Language: JavaScript and JSX
 - Frontend: Vite + React
-- Backend: Express + TypeScript
+- Backend: Node.js + Express
 - Run the frontend from the project root with `npm run dev`
-  

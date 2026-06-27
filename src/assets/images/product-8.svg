@@ -1,0 +1,14 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2B2D42" />
+      <stop offset="100%" stop-color="#8D99AE" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad8)" />
+  <rect x="280" y="260" width="520" height="520" rx="60" fill="rgba(255,255,255,0.18)" />
+  <circle cx="540" cy="460" r="120" fill="rgba(45,55,72,0.35)" />
+  <path d="M460 620h260v60H460z" fill="rgba(255,255,255,0.16)" />
+  <text x="540" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="60" fill="#fff" font-weight="700">Action Cam</text>
+  <text x="540" y="660" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#ccd5ae">4K</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2B7A78" />
+      <stop offset="100%" stop-color="#6FB98F" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad10)" />
+  <path d="M260 340h560v380a40 40 0 0 1-40 40H300a40 40 0 0 1-40-40V340Z" fill="rgba(255,255,255,0.18)" />
+  <path d="M320 420h440v250a30 30 0 0 1-30 30H350a30 30 0 0 1-30-30V420Z" fill="rgba(255,255,255,0.09)" />
+  <text x="540" y="560" text-anchor="middle" font-family="Inter, sans-serif" font-size="62" fill="#fff" font-weight="700">Backpack</text>
+  <text x="540" y="640" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#e9fffb">Designer</text>
+</svg>

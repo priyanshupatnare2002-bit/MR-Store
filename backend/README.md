@@ -12,18 +12,17 @@ works on Windows out of the box.
 
 ```
 backend/
-├── server.ts               ← Express app entry point (port 5000)
-├── database.ts             ← SQLite setup via sql.js
-├── seed.ts                 ← Populate products into the database
+├── server.js               ← Express app entry point (port 5000)
+├── database.js             ← SQLite setup via sql.js
+├── seed.js                 ← Populate products into the database
 ├── mrstore.db              ← Database file (auto-created on first run)
 ├── package.json
-├── tsconfig.json
 ├── middleware/
-│   └── authMiddleware.ts   ← JWT authentication
+│   └── authMiddleware.js   ← JWT authentication
 └── routes/
-    ├── auth.ts             ← Register & Login
-    ├── products.ts         ← Product listing & detail
-    └── orders.ts           ← Order placement & history (login required)
+    ├── auth.js             ← Register & Login
+    ├── products.js         ← Product listing & detail
+    └── orders.js           ← Order placement & history (login required)
 ```
 
 ## Setup & Run (Windows)

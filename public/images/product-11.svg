@@ -1,0 +1,17 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad11" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B3D91" />
+      <stop offset="100%" stop-color="#0DA9FF" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad11)" />
+  <rect x="260" y="280" width="560" height="520" rx="42" fill="rgba(255,255,255,0.18)" />
+  <path d="M320 360h440v80H320z" fill="rgba(13,169,255,0.14)" />
+  <path d="M320 470h440v40H320z" fill="rgba(255,255,255,0.18)" />
+  <path d="M320 540h440v40H320z" fill="rgba(255,255,255,0.18)" />
+  <path d="M320 610h440v40H320z" fill="rgba(255,255,255,0.18)" />
+  <path d="M320 680h440v40H320z" fill="rgba(255,255,255,0.18)" />
+  <text x="540" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="64" fill="#fff" font-weight="700">GitHub</text>
+  <text x="540" y="620" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#dbeafe">Project Toolkit</text>
+</svg>

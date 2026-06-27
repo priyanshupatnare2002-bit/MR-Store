@@ -1,0 +1,13 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1D3557" />
+      <stop offset="100%" stop-color="#5C7AEA" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad3)" />
+  <circle cx="540" cy="380" r="180" fill="rgba(255,255,255,0.14)" />
+  <rect x="320" y="620" width="440" height="240" rx="30" fill="rgba(255,255,255,0.16)" />
+  <text x="540" y="520" text-anchor="middle" font-family="Inter, sans-serif" font-size="66" fill="#fff" font-weight="700">Smartwatch</text>
+  <text x="540" y="620" text-anchor="middle" font-family="Inter, sans-serif" font-size="34" fill="#e0e7ff">Smart Watch Pro</text>
+</svg>

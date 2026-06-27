@@ -1,0 +1,13 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#114B5F" />
+      <stop offset="100%" stop-color="#45B29D" />
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#grad5)" />
+  <path d="M280 320h520v360a60 60 0 0 1-60 60H340a60 60 0 0 1-60-60V320Z" fill="rgba(255,255,255,0.16)" />
+  <circle cx="540" cy="450" r="90" fill="rgba(255,255,255,0.22)" />
+  <text x="540" y="620" text-anchor="middle" font-family="Inter, sans-serif" font-size="62" fill="#fff" font-weight="700">Mouse</text>
+  <text x="540" y="700" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" fill="#e0f2fe">Ergonomic</text>
+</svg>
