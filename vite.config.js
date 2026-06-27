@@ -14,7 +14,7 @@ function figmaAssetResolver() {
   };
 }
 var stdin_default = defineConfig({
-  base: "/",
+  base: "/Mr-Store/",
   plugins: [
     figmaAssetResolver(),
     // The React and Tailwind plugins are both required for Make, even if
